@@ -11,6 +11,8 @@ gem 'rails', '~> 5.1.6'
 # Use sqlite3 as the database for Active Record
 gem 'bcrypt',         '3.1.11'
 
+gem 'bootstrap', '~> 4.0.0.beta'
+
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'

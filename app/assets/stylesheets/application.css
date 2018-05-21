@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+ @import "bootstrap";
+
+.center {
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+input {
+	text-align: center;
+}
+
+.debug_dump {
+	clear: both;
+	float: left;
+}
